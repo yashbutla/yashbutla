@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yashbutla" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvo-SgbyB94o5NkxHJVKWcI-i5SIehQukgI0hA0yF9pA&usqp=CAU&ec=48665701" alt="yashbutla" height="50" width="60" /></a>
-<a href="https://instagram.com/-.yashh07.-" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="-.yashh07.-" height="50" width="60" /></a>
+<a href="https://instagram.com/-.yashh07.-" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="_.yashh07._" height="50" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
